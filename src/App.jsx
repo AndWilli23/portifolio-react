@@ -1,9 +1,8 @@
 import Card from "./components/card/Card"
 import AboutMe from "./components/home/About"
-import Cabecalho from "./components/layout/cabecalho"
-import Carrossel from "./components/projects/Carrosel"
+import Cabecalho from "./components/layout/Cabecalho"
 import Projetos from "./components/projects/Projetos"
-import Rodape from "./components/layout/rodape"
+import Rodape from "./components/layout/Rodape"
 
 
 function App() {
