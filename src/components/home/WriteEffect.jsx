@@ -19,9 +19,9 @@ const EfeitoEscrita = ({ texto, speed }) => {
 
         const intervalo = () => {
             if (index < texto.length - 1) {
-                setTextoEffect((prev) => prev + texto[index]); // Adiciona a próxima letra
-                index++; // Incrementa o índice
-                timeoutId = setTimeout(intervalo, speed); // Chama a função novamente após o delay
+                setTextoEffect((prev) => prev + texto[index]); 
+                index++; 
+                timeoutId = setTimeout(intervalo, speed); 
             }
         };
 

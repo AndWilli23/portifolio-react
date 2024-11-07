@@ -19,7 +19,7 @@ const AboutMe = () => {
                 <section css={ContainerAboutMe}>
                     <div css={AboutConteudo}>
                         <div css={containerConteudoTexto}>
-                            <EfeitoEscrita  texto={" Hi, sou o Anderson Willian!"} speed={100}></EfeitoEscrita>
+                            <EfeitoEscrita  texto={"  Hi, sou o Anderson Willian!"} speed={100}></EfeitoEscrita>
 
                             <p css={TextoConteudo}>Sou um programador front-end com um ano de experiência. Estou cursando Engenharia de Software e tenho habilidades em tecnologias como CSS, JavaScript, HTML e React. Tenho uma boa familiaridade com Bulma, Emotion e Bootstrap, o que me permite criar interfaces responsivas e atraentes. Sou apaixonado por aprender e sempre busco aprimorar minhas habilidades para desenvolver soluções eficientes e funcionais.</p>
                         </div>
