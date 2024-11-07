@@ -10,9 +10,9 @@ function App() {
     return(
       <>
         <Cabecalho/>
-        <AboutMe/>
-        <Card/>
-        <Projetos/>
+          <AboutMe/>
+            <Card/>
+          <Projetos/>
         <Rodape/>
       </>
       

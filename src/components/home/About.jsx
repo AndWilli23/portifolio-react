@@ -8,8 +8,6 @@ import { download } from "../../module/download";
 
 
 
-
-
 const AboutMe = () => {
 
 
@@ -33,7 +31,9 @@ const AboutMe = () => {
                         </div>
 
                         <div>
-                            <button css={BotaoVerdeEscuro}>Contados</button>
+                            <a href="#projetos">
+                                <button href="#projetos" css={BotaoVerdeEscuro}>Projetos</button>    
+                            </a>
                         </div>
                     </div>
                 </section>
