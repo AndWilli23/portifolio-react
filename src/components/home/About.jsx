@@ -4,10 +4,8 @@
 import EfeitoEscrita from "./WriteEffect"
 import { ContainerAboutMe, AboutConteudo, TextoConteudo, ConteudoFoto, containerPrincipal, containerConteudoTexto, BotaoVerde, BotaoVerdeEscuro, ContainerButtons} from "./About.style";
 import foto from "../../../public/foto.png"
-import curriculo from "../../../public/curriculo.pdf"
 import { download } from "../../module/download";
-import { montaCard } from "../../module/card";
-import { Link } from "react-router-dom";
+
 
 
 
