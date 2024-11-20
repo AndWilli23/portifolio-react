@@ -8,9 +8,9 @@ export const itensCarrossel = () => {
             link: "https://pokedex-one-neon-31.vercel.app"
         },
         {
-            titulo: "TechGames",
-            descricao: "Meu projeto utilizando o React.js me deixa muito orgulhoso de conseguir entregar esse trabalho, principalmente depois de tantos desafios e aprendizados.",
-            link: ""
+            titulo: "MyBooks",
+            descricao: "Projeto desenvolvido durante um curso de HTML e CSS, seguindo um layout do Figma. Este projeto foi fundamental para o aprofundamento das minhas habilidades e é totalmente responsivo.",
+            link: "https://mybooks-nine.vercel.app/#"
             
         },
         {
