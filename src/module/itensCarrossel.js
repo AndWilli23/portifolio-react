@@ -18,7 +18,7 @@ export const itensCarrossel = () => {
             descricao: "Projeto desenvolvido em curso de JavaScript, nele aprofundei minhas habilidades em JavaScript e DOM. Esse projeto marcou o início da minha vida no desenvolvimento web com foco na experiência do usuário.",
             link: "https://fokus-ten-xi.vercel.app"
             
-        }
+        },
         {
             titulo: "ClimaNow",
             descricao: "Projeto desenvolvido para praticar a consumo de APIs com o react. Foi utilizada a API da Weather para pegar todos as informações e inclusive a imagem. Foi muito prazeroso e construtivo realizar esse projeto.",
