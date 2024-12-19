@@ -21,8 +21,8 @@ export const itensCarrossel = () => {
         },
         {
             titulo: "ClimaNow",
-            descricao: "Projeto desenvolvido para praticar a consumo de APIs com o react. Foi utilizada a API da Weather para pegar todos as informações e inclusive a imagem. Foi muito prazeroso e construtivo realizar esse projeto.",
-            link: "https://fokus-ten-xi.vercel.app"
+            descricao: "Projeto desenvolvido para praticar o consumo de APIs com o react. Foi utilizada a API da Weather para pegar todos as informações e inclusive a imagem. Foi muito prazeroso e construtivo realizar esse projeto.",
+            link: "https://clima-now-jmnc.vercel.app/"
             
         }
     ];
