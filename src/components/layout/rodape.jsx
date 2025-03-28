@@ -23,7 +23,7 @@ const Rodape = () => {
             <footer css={RodapeCopy} >
                 
                 <a css={RodapeCopy} href="#home">Voltar ao início</a>
-               <p>&copy; 2024 Anderson Willian. Todos os direitos reservados.</p>
+               <p>&copy; 2025 Anderson Willian. Todos os direitos reservados.</p>
             </footer>
             
         </>
