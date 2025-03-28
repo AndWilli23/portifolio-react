@@ -28,7 +28,7 @@ export const itensCarrossel = () => {
         {
             titulo: "SenpaiList",
             descricao: "Projeto desenvolvido para praticar o consumo de APIs e aplicar meus conhecimentos em técnicas de memoização com o uso de React.memo e useCallback, além da utilização de hooks poderosos como useReducer e useRef, entre outros. A API da Jikan foi utilizada para obter todas as informações. Projeto em desenvolvimento, melhorias ainda virão.",
-            link: "https://senpai-list-abx.vercel.app/"
+            link: "https://senpai-list.vercel.app"
             
         }
     ];
