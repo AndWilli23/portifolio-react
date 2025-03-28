@@ -21,8 +21,14 @@ export const itensCarrossel = () => {
         },
         {
             titulo: "ClimaNow",
-            descricao: "Projeto desenvolvido para praticar o consumo de APIs com o react. Foi utilizada a API da Weather para pegar todos as informações e inclusive a imagem. Foi muito prazeroso e construtivo realizar esse projeto.",
+            descricao: "Projeto desenvolvido para praticar o consumo de APIs. Foi utilizada a API da Weather para pegar todos as informações. Foi muito prazeroso e construtivo realizar esse projeto.",
             link: "https://clima-now-jmnc.vercel.app/"
+            
+        },
+        {
+            titulo: "SenpaiList",
+            descricao: "Projeto desenvolvido para praticar o consumo de APIs e aplicar meus conhecimentos em técnicas de memoização com o uso de React.memo e useCallback, além da utilização de hooks poderosos como useReducer e useRef, entre outros. A API da Jikan foi utilizada para obter todas as informações. Projeto em desenvolvimento, melhorias ainda virão.",
+            link: "https://senpai-list-abx.vercel.app/"
             
         }
     ];
